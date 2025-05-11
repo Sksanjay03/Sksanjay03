@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -
 <h3 align="center">A passionate Data Science student</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysk14122003&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysk14122003" /> </p>
 
