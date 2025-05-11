@@ -16,21 +16,21 @@ Here are some ideas to get you started:
 -
 <h3 align="center">A passionate Data Science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=preethi2954&label=Profile%20views&color=0e75b6&style=flat" alt="preethi2954" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaysk14122003&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaysk14122003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preethi2954" alt="preethi2954" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjaysk14122003" alt="sanjay14122003" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Ideas**
 
-- 📫 How to reach me **https://www.linkedin.com/in/preethiga-s-17521a248/**
+- 📫 How to reach me **https://www.linkedin.com/in/sanjaysk14122003/**
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjaysk14122003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/preethiga-s-17521a248/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjaysk14122003/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjaysk14122003/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
